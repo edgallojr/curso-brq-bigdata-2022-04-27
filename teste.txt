@@ -1,3 +1,3 @@
 Alteração no arquivo teste.txt
 Alteração do arquivo na nova-branch para teste.
-outra alteração no arquivo no arquivo teste.txt na nova_branch.
+outra alteração no arquivo no arquivo teste.txt na nova_branch -->....
