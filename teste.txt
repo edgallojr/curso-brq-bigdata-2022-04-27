@@ -1,1 +1,2 @@
 Alteração no arquivo teste.txt
+Alteração do arquivo na nova-branch para teste.
